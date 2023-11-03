@@ -1,0 +1,4 @@
+KEY = {
+    "SHOP_ID": 44532503,
+    "CLAVE": "AN7sPAUn19UQ1cXL"
+}
