@@ -12,7 +12,7 @@ function App() {
     const amount = document.querySelector("#amount").value;
 
     setLoading(true)
-    fetch(`${ENV.URL}/paymentForm`, {
+    fetch(`${ENV.URL_SERVER}/paymentForm`, {
       method: "POST",
       headers: {
         "Content-Type": "application/json;charset=UTF-8",

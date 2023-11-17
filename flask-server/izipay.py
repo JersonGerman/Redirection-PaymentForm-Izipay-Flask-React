@@ -19,7 +19,7 @@ def initForm():
         "vads_trans_id": "adf21h",
         "vads_version": "V2",
         "vads_cust_first_name": "Jerson",
-        "vads_cust_last_name": "Taipe"
+        "vads_cust_last_name": "German"
     }
 
 def get_signature(params, key):
